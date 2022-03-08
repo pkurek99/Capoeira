@@ -1,0 +1,41 @@
+
+.btn--mobile-menu{
+    display:none;
+}
+.container a > img{
+    width: 90px;
+}
+nav .container{
+    height:80px;
+}
+nav .nav__links{
+    display:flex;
+}
+
+.landing-page{
+    height: 100vh;
+    background-size: 100%;
+    padding-top:25%;
+}
+
+.landing-page h1{
+    font-size: 50px;
+}
+
+.history{
+    background-position: 5% 20%;
+    padding:100px 10% 0px 50%;
+}
+
+.try{
+    padding:15% 50% 0 100px;
+}
+
+.try, .history{
+    font-size: 32px;
+}
+.footer__content--social img{
+    display:flex;
+width:80px;
+cursor:pointer;
+}
